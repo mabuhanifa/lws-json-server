@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Salary from Google",
+    "type": "income",
+    "amount": 1000000
+  },
+  {
+    "id": 2,
+    "name": "Family Expenses",
+    "type": "expense",
+    "amount": 200000
+  },
+  {
+    "name": "Interest From Deposit",
+    "type": "income",
+    "amount": 500000,
+    "id": 3
+  },
+  {
+    "name": "Electric Bills",
+    "amount": 15000,
+    "type": "expense",
+    "id": 4
+  },
+  {
+    "name": "Car Rent",
+    "type": "expense",
+    "amount": 50000,
+    "id": 5
+  },
+  {
+    "name": "Investment Returns",
+    "type": "income",
+    "amount": 500000,
+    "id": 6
+  },
+  {
+    "name": "Bonus",
+    "type": "income",
+    "amount": 300000,
+    "id": 7
+  },
+  {
+    "name": "Headphone",
+    "type": "expense",
+    "amount": 5000,
+    "id": 8
+  },
+  {
+    "name": "Sales Commission",
+    "type": "income",
+    "amount": 150000,
+    "id": 9
+  },
+  {
+    "name": "Water Bills",
+    "type": "expense",
+    "amount": 15000,
+    "id": 10
+  },
+  {
+    "name": "Transport allowance",
+    "type": "income",
+    "amount": 50000,
+    "id": 11
+  },
+  {
+    "name": "Fixed Deposit",
+    "type": "income",
+    "amount": 1000000,
+    "id": 12
+  },
+  {
+    "name": "Clothing's",
+    "type": "expense",
+    "amount": 25000,
+    "id": 13
+  },
+  {
+    "name": "Dividend",
+    "type": "income",
+    "amount": 150000,
+    "id": 14
+  },
+  {
+    "name": "Vehicle repairs",
+    "type": "expense",
+    "amount": 25000,
+    "id": 15
+  },
+  {
+    "name": "Insurance premium",
+    "type": "expense",
+    "amount": 50000,
+    "id": 16
+  },
+  {
+    "name": "Bank Interest",
+    "type": "income",
+    "amount": 350000,
+    "id": 17
+  },
+  {
+    "name": "Water and Electricity",
+    "type": "expense",
+    "amount": 22000,
+    "id": 18
+  }
+]
